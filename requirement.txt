@@ -1,8 +1,8 @@
-pandas
 streamlit
-re
+pandas
 matplotlib
 wordcloud
+re
 word_tokenize
 stopwords
 WordNetLemmatizer
