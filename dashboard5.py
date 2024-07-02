@@ -4,7 +4,7 @@
 # In[2]:
 
 
-import matplotlib
+import matplotlib.pyplot as plt
 matplotlib.use('agg')  # Use non-interactive backend
 import matplotlib.pyplot as plt
 
