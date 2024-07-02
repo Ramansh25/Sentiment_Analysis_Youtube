@@ -1,7 +1,7 @@
 streamlit==1.36.0
 pandas==2.2.2
 re
-matplotlib=3.9.0
+matplotlib==3.9.0
 wordcloud
 word_tokenize
 stopwords
