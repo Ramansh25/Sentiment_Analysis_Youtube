@@ -1,6 +1,6 @@
 pandas
 re
-matplotlib.pyplot 
+matplotlib=3.9.0
 wordcloud
 word_tokenize
 stopwords
