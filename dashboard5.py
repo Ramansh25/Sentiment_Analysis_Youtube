@@ -6,14 +6,9 @@
 
 
 import streamlit as st
-
-try:
-    import pandas as pd
-    import matplotlib.pyplot as plt
-    from wordcloud import WordCloud
-except ModuleNotFoundError as e:
-    st.error(f"Error: {e}")
-    st.stop()    
+import pandas as pd
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 # Load the CSV file
 csv_filename = 'YouTube_Comments_Sentiment_KsEoGDgKdwQ_20240701014137.csv'
