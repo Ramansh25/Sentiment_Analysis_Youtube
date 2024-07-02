@@ -4,10 +4,6 @@
 # In[2]:
 
 
-import matplotlib.pyplot as plt
-matplotlib.use('agg')  # Use non-interactive backend
-import matplotlib.pyplot as plt
-
 
 import streamlit as st
 import pandas as pd
